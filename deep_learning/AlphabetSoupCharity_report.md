@@ -5,7 +5,7 @@ A CSV containing more than 34,000 organizations that have received funding from 
 
 # Results:
 
-*Data Preprocessing
+* Data Preprocessing
 
     * Target variables: "IS_SUCCESSFUL" column which represent was the money used effectively (1) or not (0).
     * Feature variables: "APPLICATION_TYPE," "AFFILIATION," "CLASSIFICATION," "USE_CASE," "ORGANIZATION," "STATUS," "INCOME_AMT," "SPECIAL_CONSIDERATIONS," and "ASK_AMT" columns in the datset.
